@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homework xml:id="blake_homework" xmlns="http://docbook.org/ns/docbook" version="5.0">
+	<author>
+		Blake Runkle
+	</author>
+	<usesOfXML>
+		<useOne>
+			Ordering general information
+		</useOne>
+		<useTwo>
+			Library information systems organization
+		</useTwo>
+		<useThree>
+			Banking information organization
+		</useThree>
+	</usesOfXML>
+	<tooVerboseXML>
+		XML is often criticised for being too verbose and making file length too long.
+		With every element needing an opening and closing tag as well as possible name
+		spacing to avoid tag-naming collisions, files can get very difficult to read
+		as well as very long. Elements can even have attributes which further describe
+		an element. These are not to be confused with subelements. The difference is 
+		unclear and may be confusing at times.
+		XML was created to be easy to work with, not to be efficient of concise.
+		(For example - This small xml HW document is already getting a little long.)	
+	</tooVerboseXML>
+</homework>
